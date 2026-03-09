@@ -1,0 +1,12 @@
+{
+    "title": "Ltx 2.3",
+    "description": "Advanced AI model for generating high-quality videos from images with natural motion and realistic animations",
+    "type": "serverless",
+    "category": "video",
+    "iconUrl": "https://github.com/wlsdml1114/Engui_Studio/blob/main/assets/logo.png?raw=true",
+  
+    "config": {
+      "runsOn": "GPU",
+      "containerDiskInGb": 250,
+    }
+}
